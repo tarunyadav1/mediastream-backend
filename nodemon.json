@@ -1,0 +1,5 @@
+{
+  "verbose": false,
+  "watch": ["src"],
+  "exec": "babel src -d lib && node lib/index.js"
+}
